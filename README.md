@@ -1,2 +1,3 @@
-# my-portfolio
-This is my professional portfolio.
+# Chandan Debnath's Portfolio
+
+This is my Professional Portfolio. It uses AWS and ReactJs
